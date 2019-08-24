@@ -1,2 +1,0 @@
-# Install a JupyterLab extension
-jupyter labextension install @jupyterlab/plotly-extension
