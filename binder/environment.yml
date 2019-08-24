@@ -329,3 +329,4 @@ dependencies:
   - winpty=0.4.3=4
   - zeromq=4.3.1=h33f27b4_3
   - zlib=1.2.11=h62dcd97_3
+prefix: C:\Users\ch279\AppData\Local\Continuum\miniconda3\envs\DIVA
